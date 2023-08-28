@@ -1,7 +1,7 @@
 # Dmoney-API-Automation
 
 ## About This Project
-### Dmoney is demo financial money transfer system. Automated dmoney API using Postman where test cases are added for Login,Creating users, and performed testing for CRUD operations.
+### Dmoney is a financial money transfer system that allows money to be transferred between accounts.In this project, I automated the Dmoney API using Postman, adding test cases for login, creating users, and performing CRUD operations.
 
 # Dmoney API Documentation
 - Test Reports:
